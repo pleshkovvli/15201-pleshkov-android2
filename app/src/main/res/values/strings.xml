@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FindLocation</string>
+    <string name="unspecified_location">Nothing special about your location</string>
+    <string name="turn_on_text">Turn on location finder</string>
+    <string name="turn_off_text">Turn off location finder</string>
+
+    <string name="text_enter_location">You entered location</string>
+    <string name="text_exit_location">You left location</string>
+
+    <string name="text_start_monitor">Started to monitor your location</string>
+    <string name="text_stop_monitor">Stopped to monitor your location</string>
+
+    <string name="text_failed_to_start">Failed to start monitor location!</string>
+    <string name="text_failed_to_stop">Failed to stop monitor location!</string>
+</resources>

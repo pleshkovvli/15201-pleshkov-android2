@@ -1,0 +1,18 @@
+{
+  "1" : {
+    "description" : "Pretty dangerous and verbose place",
+    "id" : 1,
+    "latitude" : -7.5,
+    "longitude" : 110.0,
+    "name" : "Java island",
+    "radius" : 1000000.0
+  },
+  "0" : {
+    "description" : "Very nice and safe place",
+    "id" : 0,
+    "latitude" : 60.0,
+    "longitude" : 29.75,
+    "name" : "Kotlin island",
+    "radius" : 12000.0
+  }
+}
